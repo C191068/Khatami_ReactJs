@@ -17,6 +17,9 @@ to begin we need to setup a free account with replit <br>
 we wil sign up with google 
 
 
+React is a front end javascript framework and is a javascript library created by Facebook <br>
+
+
 
 
 
