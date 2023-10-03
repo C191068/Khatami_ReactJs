@@ -77,6 +77,9 @@ the above code gives the following output <br>
 here in the above we will click the icon shown with white arrrow <br>
 
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/b008c937-5770-4d89-bbcc-a34e9a51b6f9)
+
+then tha above fullscreen will appear <br>
 
 
 
