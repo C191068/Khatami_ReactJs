@@ -98,6 +98,9 @@ These UI components are expessed in jsx files <br>
 we have created a new jsx file <br>
 
 
+![n20](https://github.com/C191068/Khatami_ReactJs/assets/89090776/bfe8873a-cd12-491f-835d-3e1787104e2a)
+
+we have created another jsx file <br>
 
 
 
