@@ -81,6 +81,8 @@ here in the above we will click the icon shown with white arrrow <br>
 
 then tha above fullscreen will appear <br>
 
+We also gonna use bootstrap 5 for layout and styling purposes <br>
+
 
 
 
