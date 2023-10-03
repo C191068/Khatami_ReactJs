@@ -21,6 +21,17 @@ React is a front end javascript framework and is a javascript library created by
 
 react is a tool for building UI user interface components <br>
 
+REACT creates a virtual DOM( Document Object Model) in memeory <br>
+
+
+
+
+
+
+
+
+
+
 
 
 
