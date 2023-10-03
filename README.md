@@ -205,6 +205,9 @@ full screen <br>
 
 we gonna use bootstrap 5 for styling and layout purposes <br>
 
+![n30](https://github.com/C191068/Khatami_ReactJs/assets/89090776/7a82736a-d1c8-4b79-b0bd-5a10f8b07bb1)
+
+to install bootstrap 5 we will at first click the above packages <br>
 
 
 
