@@ -10,6 +10,10 @@ Replit is a popular collaborative in browser IDE where we are able to code in 50
 
 withot spending much time in setup <br>
 
+to begin we need to setup a free account with replit <br>
+
+
+
 
 
 
