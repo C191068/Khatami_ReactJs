@@ -83,6 +83,9 @@ then tha above fullscreen will appear <br>
 
 We also gonna use bootstrap 5 for layout and styling purposes <br>
 
+![n17](https://github.com/C191068/Khatami_ReactJs/assets/89090776/9107e4de-962f-4dc5-b5f9-638d7e73f708)
+
+we have changed the css like the baove <br>
 
 
 
