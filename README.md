@@ -90,6 +90,9 @@ we have changed the css like the baove <br>
 
 Now we will create three UI components using REACT <br>
 
+These UI components are expessed in jsx files <br>
+
+
 
 
 
