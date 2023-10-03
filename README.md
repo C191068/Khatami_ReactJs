@@ -108,6 +108,8 @@ another jsx file we also created <br>
 
 the react application that gonna be developed will use functional components rather than class components <br>
 
+source : https://legacy.reactjs.org/docs/components-and-props.html
+
 
 
 
