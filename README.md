@@ -203,6 +203,8 @@ thus importing everything we get the above output <br>
 
 full screen <br>
 
+we gonna use bootstrap 5 for styling and layout purposes <br>
+
 
 
 
