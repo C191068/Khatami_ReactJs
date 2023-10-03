@@ -162,6 +162,10 @@ the above code will give the following output <br>
 In our index.html we have div element with id equal to root <br>
 
 
+![n23](https://github.com/C191068/Khatami_ReactJs/assets/89090776/bd8bf17e-05fc-409a-a393-957a2e8bc886)
+
+we also have references to index.html file <br>
+
 
 
 
