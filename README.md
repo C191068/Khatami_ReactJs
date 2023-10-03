@@ -187,7 +187,9 @@ we will paste the code from Header to Content file like the above <br>
 
 and change everything like the above <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/01d7b456-3af5-4bd1-ae01-e01b7ae40ee5)
 
+we will do the same for footer <br>
 
 
 
