@@ -72,6 +72,14 @@ the above code gives the following output <br>
 
 ![n15](https://github.com/C191068/Khatami_ReactJs/assets/89090776/8dee34c3-e392-4002-ba1f-aa878f6e1f9c)
 
+![n16](https://github.com/C191068/Khatami_ReactJs/assets/89090776/4a20e4da-b531-4773-9334-bc60e24552ac)
+
+here in the above we will click the icon shown with white arrrow <br>
+
+
+
+
+
 
 
 
