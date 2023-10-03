@@ -24,6 +24,9 @@ react is a tool for building UI user interface components <br>
 REACT creates a virtual DOM( Document Object Model) in memeory <br>
 
 REACT is very fast , REACT finds what changes have been made <br>
+and changes only what needed to be changed <br>
+
+
 
 
 
