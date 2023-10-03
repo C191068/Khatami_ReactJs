@@ -168,7 +168,9 @@ we also have references to index.html file <br>
 
 ![n24](https://github.com/C191068/Khatami_ReactJs/assets/89090776/47251d46-958a-483a-bdcc-cdf32a5722af)
 
-at index.jsx file the const data type varible container is referencing to the root element <br>
+at index.jsx file here it is referencing to the root element <br>
+
+
 
 
 
