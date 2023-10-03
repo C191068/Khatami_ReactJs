@@ -93,6 +93,10 @@ Now we will create three UI components using REACT <br>
 These UI components are expessed in jsx files <br>
 
 
+![n18](https://github.com/C191068/Khatami_ReactJs/assets/89090776/76940101-819f-4a14-a3fa-07700f9330b7)
+
+we have created a new jsx file <br>
+
 
 
 
