@@ -171,6 +171,9 @@ we also have references to index.html file <br>
 
 at index.jsx file here it is referencing to the root element <br>
 
+![n26](https://github.com/C191068/Khatami_ReactJs/assets/89090776/bab3b01b-69c1-4c8f-b83c-f443ea2ed546)
+
+here we can see that render function is being called to render the app component within the root element <br>
 
 
 
