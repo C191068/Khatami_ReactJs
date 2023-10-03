@@ -114,6 +114,8 @@ source : https://legacy.reactjs.org/docs/components-and-props.html
 
 We will represent our functional components using javscript arrow function <br>
 
+javascript arrow function : https://www.freecodecamp.org/news/javascripts-arrow-functions-explained-by-going-down-a-slide-2eb8ee3c45e/
+
 
 
 
