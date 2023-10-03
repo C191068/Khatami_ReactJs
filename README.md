@@ -195,7 +195,9 @@ we will do the same for footer <br>
 
 now we will import it to App.jsx file <br>
 
+![n29](https://github.com/C191068/Khatami_ReactJs/assets/89090776/feddb568-d40b-4a5f-911c-906212168e14)
 
+thus importing everything we get the above output <br>
 
 
 
