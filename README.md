@@ -37,6 +37,9 @@ for that we need to click here <br>
 
 here we can see a number of programming languages and developer platform we can choose from <br>
 
+![n12](https://github.com/C191068/Khatami_ReactJs/assets/89090776/3aa95e1f-182b-4152-80fa-b40675bad4fa)
+
+here we gonna select the above <br>
 
 
 
