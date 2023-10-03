@@ -106,6 +106,9 @@ we have created another jsx file <br>
 
 another jsx file we also created <br>
 
+the react application that gonna be developed will use functional components rather than class components <br>
+
+
 
 
 
