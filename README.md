@@ -12,6 +12,9 @@ withot spending much time in setup <br>
 
 to begin we need to setup a free account with replit <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/d2dee03f-44d4-47ff-a5cf-2208bba48482)
+
+we wil sign up with google 
 
 
 
