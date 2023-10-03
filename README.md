@@ -102,6 +102,11 @@ we have created a new jsx file <br>
 
 we have created another jsx file <br>
 
+![n21](https://github.com/C191068/Khatami_ReactJs/assets/89090776/ea64d641-5b5d-42fa-ace3-be42144938b7)
+
+another jsx file we also created <br>
+
+
 
 
 
