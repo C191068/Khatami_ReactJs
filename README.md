@@ -166,7 +166,8 @@ In our index.html we have div element with id equal to root <br>
 
 we also have references to index.html file <br>
 
-![n24](https://github.com/C191068/Khatami_ReactJs/assets/89090776/47251d46-958a-483a-bdcc-cdf32a5722af)
+![n25](https://github.com/C191068/Khatami_ReactJs/assets/89090776/bed48c0c-e579-43c4-8bef-87df33a5dda5)
+
 
 at index.jsx file here it is referencing to the root element <br>
 
