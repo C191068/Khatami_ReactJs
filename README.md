@@ -181,8 +181,11 @@ here we can see that render function is being called to render the app component
 we will paste the code from Header to Content file like the above <br>
 
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/885dbe28-6a4c-4693-ab37-cb9ac0f780ab)
 
 
+
+and change everything like the above <br>
 
 
 
