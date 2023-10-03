@@ -133,6 +133,10 @@ the above is the code for header <br>
 
 we are now able to reference the header component in our application declaratively <br>
 
+by appropriately including header elemnt at App.jsx file <br>
+
+
+
 
 
 
