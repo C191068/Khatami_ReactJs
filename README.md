@@ -29,6 +29,9 @@ and changes only what needed to be changed <br>
 
 Now we will create a REPL for our REACT application <br>
 
+![n10](https://github.com/C191068/Khatami_ReactJs/assets/89090776/1d3ede2e-1aaf-4e13-9d99-d046def607ec)
+
+for that we need to click here <br>
 
 
 
