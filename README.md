@@ -135,6 +135,27 @@ we are now able to reference the header component in our application declarative
 
 by appropriately including header elemnt at App.jsx file <br>
 
+```
+import * as React from 'react';
+import './App.css';
+import Header from './Header';
+
+export default function App() {
+  return (
+    <div>
+     <Header />
+    </div>
+  )
+}
+
+
+```
+
+
+the above code will give the following output <br>
+
+
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/96a450fa-84bf-40a0-8521-28b8afdb6585)
 
 
 
