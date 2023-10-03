@@ -158,6 +158,9 @@ the above code will give the following output <br>
 ![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/96a450fa-84bf-40a0-8521-28b8afdb6585)
 
 
+![n22](https://github.com/C191068/Khatami_ReactJs/assets/89090776/5a537361-16f2-4734-adc7-af9fd119afb7)
+In our index.html we have div element with id equal to root <br>
+
 
 
 
