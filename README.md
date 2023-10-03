@@ -88,6 +88,8 @@ We also gonna use bootstrap 5 for layout and styling purposes <br>
 we have changed the css like the baove <br>
 
 
+Now we will create three UI components using REACT <br>
+
 
 
 
