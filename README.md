@@ -51,6 +51,40 @@ then we will click ```Create Repl``` button <br>
 we will click the above run button <br>
 
 
+```
+
+import './App.css'
+
+export default function App() {
+  return (
+    <main>
+      Assalamualikum World !!!
+    </main>
+  )
+}
+
+
+```
+
+
+
+the above code gives the following output <br>
+
+![n15](https://github.com/C191068/Khatami_ReactJs/assets/89090776/8dee34c3-e392-4002-ba1f-aa878f6e1f9c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
