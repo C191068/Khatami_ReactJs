@@ -116,6 +116,23 @@ We will represent our functional components using javscript arrow function <br>
 
 javascript arrow function : https://www.freecodecamp.org/news/javascripts-arrow-functions-explained-by-going-down-a-slide-2eb8ee3c45e/
 
+```
+const Header = () => {
+  return(
+    <header>
+      <h1>TeamName</h1>
+    </header>
+  )
+}
+export default Header
+
+```
+
+
+the above is the code for header <br>
+
+we are now able to reference the header component in our application declaratively <br>
+
 
 
 
