@@ -199,6 +199,9 @@ now we will import it to App.jsx file <br>
 
 thus importing everything we get the above output <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/74f60c10-8b78-46a5-97a8-54504ffa8f5f)
+
+full screen <br>
 
 
 
