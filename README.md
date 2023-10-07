@@ -283,7 +283,13 @@ yarn set version stable
 https://yarnpkg.com/getting-started/install
 
 
+```
+yarn add history react-router-dom@6.16.0
 
+```
+
+
+use the above command 
 
 
 
