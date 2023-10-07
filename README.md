@@ -235,6 +235,9 @@ to create a react app we have to type the above commmnd and will install everyth
 thus it is successfully installed <br>
 
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/c2115032-ca7a-4a2a-8f37-d2441684305b)
+
+thus we tupe the above ```npm start``` <br>
 
 
 
