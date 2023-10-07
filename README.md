@@ -248,6 +248,11 @@ it is starting <br>
 on the browser it is working <br>
 thus we have successfully bootstrap our application <br>
 
+react roter is a standard in react application for handling routes <br>
+
+as our is a single page application and we need something to handle or rolling <br>
+because we gonna have different pages <br>
+
 
 
 
