@@ -217,6 +217,18 @@ https://replit.com/@C191068-AliAli/TeamPlayerAllocation
 
 https://create-react-app.dev/docs/getting-started
 
+we have to follow the above link
+
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/6c6618e7-6820-4169-85c1-d9124acf80b6)
+
+```
+npx create-react-app react-kapp
+
+```
+
+
+
+to create a react app we have to type the above commmnd and will install everything for us
 
 
 
