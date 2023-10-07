@@ -239,6 +239,9 @@ thus it is successfully installed <br>
 
 thus we tupe the above ```npm start``` <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/2545bba3-47d9-4d04-8458-302f9f4e1eaa)
+
+it is starting <br>
 
 
 
