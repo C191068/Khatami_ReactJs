@@ -280,8 +280,7 @@ yarn set version stable
 
 ```
 
-
-
+https://yarnpkg.com/getting-started/install
 
 
 
