@@ -231,6 +231,10 @@ npx create-react-app react-kapp
 to create a react app we have to type the above commmnd and will install everything for us
 
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/a77325d1-d4b4-4d00-a42b-5dc3882ab704)
+thus it is successfully installed <br>
+
+
 
 
 
