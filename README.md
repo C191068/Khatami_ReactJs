@@ -243,8 +243,9 @@ thus we tupe the above ```npm start``` <br>
 
 it is starting <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/764e5309-b956-4c35-aefe-643baeb57e75)
 
-
+on the browser
 
 
 
