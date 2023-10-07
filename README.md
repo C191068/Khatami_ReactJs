@@ -253,6 +253,10 @@ react roter is a standard in react application for handling routes <br>
 as our is a single page application and we need something to handle or rolling <br>
 because we gonna have different pages <br>
 
+there is another library named reach router <br>
+
+the same team have created reach router and react router <br>
+
 
 
 
