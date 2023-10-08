@@ -99,6 +99,9 @@ styled components is a super great library to use in combination with react <br>
 
 with styled components we can create our CSS in isolated and scoped components <br>
 
+in SAAS we can do nesting and stuff like that <br>
+
+
 
 
 
