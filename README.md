@@ -101,6 +101,11 @@ with styled components we can create our CSS in isolated and scoped components <
 
 in SAAS we can do nesting and stuff like that <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/eebeb582-42dc-4bca-a2ec-ae62b8698f01)
+
+for that we type the above command <br>
+
+
 
 
 
