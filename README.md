@@ -108,7 +108,9 @@ for that we type the above command <br>
 https://www.npmjs.com/package/prop-types
 
 prop type is a great tool in react where you can type check your props that <br>
-yoyu send into oyur component <br>
+yoyu send into your component <br>
+
+for typescript no need of prop type <br>
 
 
 
