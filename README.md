@@ -112,6 +112,9 @@ yoyu send into your component <br>
 
 for typescript no need of prop type <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/92c8e0ae-ebe5-4b00-bb5f-9fc01930e9c1)
+
+for that we type tha above command <br>
 
 
 
