@@ -105,6 +105,11 @@ in SAAS we can do nesting and stuff like that <br>
 
 for that we type the above command <br>
 
+https://www.npmjs.com/package/prop-types
+
+prop type is a great tool in react where you can type check your props that <br>
+yoyu send into oyur component <br>
+
 
 
 
