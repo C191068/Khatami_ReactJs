@@ -89,22 +89,17 @@ yarn add history react-router-dom@6.16.0
 
 ```
 
+use the above command 
+
+
 
 https://styled-components.com/
 
+styled components is a super great library to use in combination with react <br>
+
+with styled components we can create our CSS in isolated and scoped components <br>
 
 
-
-
-
-
-
-
-
-
-
-
-use the above command 
 
 
 
