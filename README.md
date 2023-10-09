@@ -217,6 +217,7 @@ this is jsx <br>
 
 we may think it is html but it is jsx <br>
 
+JSX is something really great to use in combination with react <br>
 
 
 
