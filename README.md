@@ -211,6 +211,9 @@ at website link we can see how to create class component <br>
 
 but in our app we gonna create functional component not class component <br>
 
+![r9](https://github.com/C191068/Khatami_ReactJs/assets/89090776/723bf635-9fed-4157-b39b-3588a933acd8)
+
+this is jsx <br>
 
 
 
