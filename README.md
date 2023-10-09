@@ -215,6 +215,8 @@ but in our app we gonna create functional component not class component <br>
 
 this is jsx <br>
 
+we may think it is html but it is jsx <br>
+
 
 
 
