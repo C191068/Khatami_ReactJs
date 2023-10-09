@@ -166,6 +166,11 @@ our npm is started we did not cancel it
 at browser we can see it is running <br>
 
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/e6e6c157-8643-443f-b98d-8251fe33690e)
+
+a new file is created .env <br>
+
+
 
 
 
