@@ -238,6 +238,9 @@ React.createElement(component, props, ...children)
 at the above we can see we have component we want to create .
 we have props and we have children <br>
 
+![r11](https://github.com/C191068/Khatami_ReactJs/assets/89090776/59bedeee-c7d3-44b9-8fc8-35e15299c6c5)
+
+this is the spread syntax in javascript es6 <br>
 
 
 
