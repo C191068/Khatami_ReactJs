@@ -187,6 +187,11 @@ it is all manged inside create react app when it starts the dev environment <br>
 and start all files for us <br>
 
 
+this .env variable won't be save because it will visible in the client <br>
+
+so don't think it won't show up in the browser <br>
+
+
 
 
 
