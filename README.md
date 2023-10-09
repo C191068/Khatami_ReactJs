@@ -191,6 +191,8 @@ this .env variable won't be save because it will visible in the client <br>
 
 so don't think it won't show up in the browser <br>
 
+if anyone is good looking at code he will be able to find the api key <br>
+
 
 
 
