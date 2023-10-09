@@ -157,6 +157,14 @@ and in src file i have remove all file that has to do with test file <br>
 here at api.js file there is some functions that gonna handle API calls <br>
 to movie database <br>
 
+![r5](https://github.com/C191068/Khatami_ReactJs/assets/89090776/65763552-eb8a-4dbd-b273-bcbb38cb1fda)
+
+our npm is started we did not cancel it 
+
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/86f3afb7-5ee6-4337-b32f-e543d43cf2e2)
+
+at browser we can see it is running <br>
+
 
 
 
