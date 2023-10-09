@@ -193,6 +193,10 @@ so don't think it won't show up in the browser <br>
 
 if anyone is good looking at code he will be able to find the api key <br>
 
+so this is not the safe way to provide an api key <br>
+
+if you want to hide it from browser <br>
+
 
 
 
