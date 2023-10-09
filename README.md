@@ -143,10 +143,13 @@ we copy the above folder
 
 pate it here <br>
 
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/83df5f2f-e28a-488d-b6b0-075c7f196437)
 
 here everything of public and src are same only difference I have added in <br>
 
 google import of font called ```Abel``` <br>
+
+and in src file i have remove all file that has to do with test file <br>
 
 
 
