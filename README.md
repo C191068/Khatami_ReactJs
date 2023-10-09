@@ -182,6 +182,9 @@ here we will paste the api key <br>
 
 this api key will then be used in src folder in config.js file <br>
 
+it is all manged inside create react app when it starts the dev environment <br>
+
+and start all files for us <br>
 
 
 
