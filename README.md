@@ -126,6 +126,8 @@ this is the folder that dev environment is gonna build for us <br>
 
 here in the src folder where we gonna create everything for our application <br>
 
+here we not gonna use setuptest and app test files <br>
+
 
 
 
