@@ -209,6 +209,7 @@ jsx stands for javascript xml <br>
 
 at website link we can see how to create class component <br>
 
+but in our app we gonna create functional component not class component <br>
 
 
 
