@@ -170,6 +170,8 @@ at browser we can see it is running <br>
 
 a new file is created .env <br>
 
+create react app has buil in support for environmental variables <br>
+
 
 
 
