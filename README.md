@@ -116,6 +116,12 @@ for typescript no need of prop type <br>
 
 for that we type tha above command <br>
 
+![r1](https://github.com/C191068/Khatami_ReactJs/assets/89090776/713e44a5-0d62-45a3-bf02-1585185bf8ee)
+
+
+here we click the public <br>
+
+
 
 
 
