@@ -122,6 +122,10 @@ for that we type tha above command <br>
 here we click the public <br>
 this is the folder that dev environment is gonna build for us <br>
 
+![r2](https://github.com/C191068/Khatami_ReactJs/assets/89090776/41c8da73-2dd8-43e2-b15e-975de4013d4a)
+
+here in the src folder where we gonna create everything for our application <br>
+
 
 
 
