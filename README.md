@@ -120,6 +120,8 @@ for that we type tha above command <br>
 
 
 here we click the public <br>
+this is the folder that dev environment is gonna build for us <br>
+
 
 
 
