@@ -223,6 +223,12 @@ JSX is something really great to use in combination with react <br>
 we can't create component without jsx in react <br>
 
 
+![r10](https://github.com/C191068/Khatami_ReactJs/assets/89090776/6ed217f2-879a-4fb3-aa50-dbebfb114fe6)
+
+by react.create elemnt above we specify that we want some props and then specify child elemnts <br>
+
+
+
 
 
 
