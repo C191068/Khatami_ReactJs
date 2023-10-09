@@ -205,6 +205,9 @@ when we create something with react we are using something called jsx <br>
 
 jsx stands for javascript xml <br>
 
+![r8](https://github.com/C191068/Khatami_ReactJs/assets/89090776/332bcc1e-713e-458c-8a6e-3d4b9010e9f4)
+
+at website link we can see how to create class component <br>
 
 
 
