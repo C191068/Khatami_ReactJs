@@ -152,6 +152,23 @@ google import of font called ```Abel``` <br>
 and in src file i have remove all file that has to do with test file <br>
 
 
+![r4](https://github.com/C191068/Khatami_ReactJs/assets/89090776/3f95175b-49cf-4f7e-ab0f-71b12f9bf4a5)
+
+here at api.js file there is some functions that gonna handle API calls <br>
+to movie database <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
