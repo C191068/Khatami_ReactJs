@@ -203,6 +203,9 @@ https://legacy.reactjs.org/docs/react-without-jsx.html
 
 when we create something with react we are using something called jsx <br>
 
+jsx stands for javascript xml <br>
+
+
 
 
 
