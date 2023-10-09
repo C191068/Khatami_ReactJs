@@ -112,12 +112,12 @@ yoyu send into your component <br>
 
 for typescript no need of prop type <br>
 
-![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/92c8e0ae-ebe5-4b00-bb5f-9fc01930e9c1)
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/6cd2a329-fea2-479d-ae00-8268842a87fc)
 
 for that we type tha above command <br>
 
 
-![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/6cd2a329-fea2-479d-ae00-8268842a87fc)
+
 
 
 
