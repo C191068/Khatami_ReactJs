@@ -128,6 +128,23 @@ here in the src folder where we gonna create everything for our application <br>
 
 here we not gonna use setuptest and app test files <br>
 
+https://github.com/weibenfalk/react-rmdb-v3-starter-files
+
+
+
+![r3](https://github.com/C191068/Khatami_ReactJs/assets/89090776/34047d40-eda4-42a0-9685-b09ea20e4122)
+we clone the above git 
+
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/7520643d-3932-43b6-988e-eadbd5e9b8b6)
+
+we copy the above folder 
+
+![image](https://github.com/C191068/Khatami_ReactJs/assets/89090776/23e3889e-9311-43e1-83cd-d1f7f0c88d58)
+
+pate it here <br>
+
+
+
 
 
 
