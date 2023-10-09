@@ -228,6 +228,30 @@ we can't create component without jsx in react <br>
 by react.create elemnt above we specify that we want some props and then specify child elemnts <br>
 
 
+```
+
+React.createElement(component, props, ...children)
+
+```
+
+
+at the above we can see we have component we want to create .
+we have props and we have children <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
