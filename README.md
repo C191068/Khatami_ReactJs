@@ -220,6 +220,8 @@ we may think it is html but it is jsx <br>
 JSX is something really great to use in combination with react <br>
 
 
+we can't create component without jsx in react <br>
+
 
 
 
