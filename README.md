@@ -173,6 +173,14 @@ a new file is created .env <br>
 create react app has buil in support for environmental variables <br>
 
 
+![r6](https://github.com/C191068/Khatami_ReactJs/assets/89090776/5655bed8-e6ef-4b93-9ff1-b201b689bd51)
+
+here we will paste the api key <br>
+
+![r7](https://github.com/C191068/Khatami_ReactJs/assets/89090776/5b54861b-d46a-4f78-a0dd-8edff3b420cb)
+
+
+this api key will then be used in src folder in config.js file <br>
 
 
 
